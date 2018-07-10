@@ -1,0 +1,10 @@
+NYC restaurant project plan
+
+functionalities:
+	map filter by cusine type, area, score(A, B, C)
+	mapping each restaurant
+	nltk violation description, show result
+
+Clean data:	
+	using phone number as ID
+	sort by date
